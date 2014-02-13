@@ -12,6 +12,7 @@ namespace TestGithubSolution
         {
             // Modified Code
             var testClass = new App_Code.SampleClass();
+            // Test made from Github.com
         }
     }
 }
