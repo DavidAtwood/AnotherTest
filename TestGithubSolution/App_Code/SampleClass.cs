@@ -11,6 +11,7 @@ namespace TestGithubSolution.App_Code
         public SampleClass()
         {
             Console.WriteLine("Sample Class Constructor called.");
+            // This comment added from GitHub.
         }
     }
 }
